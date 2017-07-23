@@ -52,7 +52,6 @@ import de.bsvrz.dav.daf.main.config.ObjectSetType;
 import de.bsvrz.dav.daf.main.config.ObjectSetUse;
 import de.bsvrz.dav.daf.main.config.ReferenceAttributeType;
 import de.bsvrz.dav.daf.main.config.StringAttributeType;
-import de.bsvrz.dav.daf.main.config.SystemConfigurationAuthority;
 import de.bsvrz.dav.daf.main.config.SystemObject;
 import de.bsvrz.dav.daf.main.config.SystemObjectCollection;
 import de.bsvrz.dav.daf.main.config.SystemObjectType;
